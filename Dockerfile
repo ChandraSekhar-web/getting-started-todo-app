@@ -1,4 +1,4 @@
-###################################################
+##################################################
 # Stage: base
 # 
 # This base stage ensures all other stages are using the same base image
